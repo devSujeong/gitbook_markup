@@ -18,3 +18,5 @@ title -&gt; meta description -&gt; 헤딩 태그 순.
 * keywords: 구글 검색엔진은 신뢰하지 않음. 마케터들이 어뷰징을 했기 때문.
 * viewport: 모바일에서도 볼 수 있는 페이지인지 구글이 따짐.
 * 
+
+
