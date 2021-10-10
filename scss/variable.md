@@ -4,7 +4,7 @@
 
 모든 css value를 변수로 만들 수 있습니다.
 
-```css
+```scss
 $align: space-between;
 ```
 
