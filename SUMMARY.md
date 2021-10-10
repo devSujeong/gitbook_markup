@@ -20,3 +20,5 @@
 * [Map](scss/map.md)
 * [Mixin](scss/mixin.md)
 * [Function](scss/function.md)
+* [If](scss/if.md)
+* [selector](scss/selector.md)
