@@ -18,3 +18,5 @@
 * [설치 및 사용법](scss/undefined.md)
 * [Variable](scss/variable.md)
 * [Map](scss/map.md)
+* [Mixin](scss/mixin.md)
+* [Function](scss/function.md)
