@@ -30,3 +30,10 @@
 * [Form](style/form.md)
 * [Grid](style/grid.md)
 * [말줄임](style/undefined.md)
+* [scroll](style/scroll.md)
+
+## css animation
+
+* [🪂 slide up & down](css-animation/slide-up-and-down.md)
+* [🪂 sidebar left](css-animation/sidebar-left.md)
+* [🪂 show & hide](css-animation/show-and-hide.md)
