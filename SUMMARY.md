@@ -36,3 +36,4 @@
 
 * [🪂 slide up & down](css-animation/slide-up-and-down.md)
 * [🪂 sidebar left](css-animation/sidebar-left.md)
+* [🪂 show & hide](css-animation/show-and-hide.md)
